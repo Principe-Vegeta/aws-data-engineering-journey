@@ -6,7 +6,7 @@ Welcome to my portfolio! This repository serves as the central hub for my prepar
 
 ## Lab 1: Foundational Cloud Infrastructure & Post-Quantum SSH Hardening
 
-### 📋 Overview
+### Overview
 In this foundational lab, I deployed a secure Linux instance on Amazon EC2, configured strict network access controls via Security Groups, performed network port auditing using Netcat, and hardened the remote access channel against future threats using **Post-Quantum Cryptography (PQC)**.
 
 ### Architecture Diagram
@@ -41,7 +41,7 @@ In this foundational lab, I deployed a secure Linux instance on Amazon EC2, conf
 
 ---
 
-## 📈 Next Phase: Data Engineering Core
+## Next Phase: Data Engineering Core
 With the secure infrastructure foundation established, the next module will cover **Data Ingestion and Storage**, focusing on:
 * **Amazon S3** Data Lakes design and partitioning.
 * **AWS IAM** fine-grained policies for data access.
